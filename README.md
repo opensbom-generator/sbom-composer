@@ -31,7 +31,7 @@ go run sbom_compose.go -d <path-to-dir-with-spdx-files-to-compose> [flags]
 
 If testing local changes to some of the sbom-composer's packages, e.g. the `parser`, modify `cli/sbom_compose.go` imports:
 ```
-// "github.com/vmware-samples/sbom-composer/parser"
+// "github.com/opensbom-generator/sbom-composer/parser"
 "sbom-composer/parser"
 ```
 and `cli/go.mod` with:
@@ -50,7 +50,7 @@ To be added.
 ## Contributing
 
 The sbom-composer project team welcomes contributions from the community. Before you start working with sbom-composer, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
+read our [Developer Certificate of Origin](https://wiki.linuxfoundation.org/dco). All contributions to this repository must be
 signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
 as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 

@@ -31,7 +31,7 @@ Proposals should cover the high-level objectives, use cases, and technical recom
 
 ## Lazy Consensus
 
-To maintain velocity in the sbom-composer project, the concept of [Lazy Consensus](http://en.osswiki.info/concepts/lazy_consensus) is practiced. Lazy Consensus is practiced for all projects and decisions in the `vmware-samples` org.
+To maintain velocity in the sbom-composer project, the concept of [Lazy Consensus](http://en.osswiki.info/concepts/lazy_consensus) is practiced. Lazy Consensus is practiced for all projects and decisions in the `opensbom-generator` org.
 
 Lazy consensus does _not_ apply to the process of:
 * Removal of maintainers from sbom-composer

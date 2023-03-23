@@ -1,4 +1,4 @@
-module github.com/vmware-samples/sbom-composer/parser
+module github.com/opensbom-generator/sbom-composer/parser
 
 go 1.16
 
