@@ -1,4 +1,4 @@
-// Copyright (c) 2022 VMware, Inc. All Rights Reserved.
+// Copyright (c) 2023 The OpenSBOM Authors, All Rights Reserved.
 // SPDX-License-Identifier: BSD-2-Clause
 
 package parser

@@ -1,4 +1,4 @@
-// Copyright (c) 2022 VMware, Inc. All Rights Reserved.
+// Copyright (c) 2023 The OpenSBOM Authors, All Rights Reserved.
 // SPDX-License-Identifier: BSD-2-Clause
 
 package main
@@ -7,8 +7,8 @@ import (
 	"fmt"
 
 	"github.com/morikuni/aec"
+	"github.com/opensbom-generator/sbom-composer/parser"
 	"github.com/spf13/cobra"
-	"github.com/vmware-samples/sbom-composer/parser"
 )
 
 const figletStr = `
