@@ -1,6 +1,6 @@
 # SBOM Composer Maintainers
 
-[GOVERNANCE.md](https://github.com/vmware-samples/sbom-composer/blob/main/GOVERNANCE.md)
+[GOVERNANCE.md](https://github.com/opensbom-generator/sbom-composer/blob/main/GOVERNANCE.md)
 describes governance guidelines and maintainer responsibilities.
 
 ## Maintainers
@@ -9,3 +9,4 @@ describes governance guidelines and maintainer responsibilities.
 | --------------- | --------- | ----------- |
 | Ivana Atanasova | [ivanayov](https://github.com/ivanayov) | [VMware](https://www.github.com/vmware/) |
 | Velichka Atanasova | [avelichka](https://github.com/avelichka/) | [VMware](https://www.github.com/vmware/) |
+| Rose Judge | [rnjudge](https://github.com/rnjudge/) | [VMware](https://www.github.com/vmware/) |

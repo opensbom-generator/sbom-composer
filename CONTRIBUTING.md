@@ -1,7 +1,7 @@
 # Contributing to sbom-composer
 
 The sbom-composer project team welcomes contributions from the community. Before you start working with sbom-composer, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
+read our [Developer Certificate of Origin](https://wiki.linuxfoundation.org/dco). All contributions to this repository must be
 signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
 as an open-source patch.
 
@@ -18,7 +18,7 @@ This is a rough outline of what a contributor's workflow looks like:
 Example:
 
 ``` shell
-git remote add upstream https://github.com/vmware-samples/sbom-composer.git
+git remote add upstream https://github.com/opensbom-generator/sbom-composer.git
 git checkout -b my-new-feature main
 git commit -a
 git push origin my-new-feature
@@ -26,7 +26,7 @@ git push origin my-new-feature
 
 ### Staying In Sync With Upstream
 
-When your branch gets out of sync with the vmware-samples/main branch, use the following to update:
+When your branch gets out of sync with the opensbom-generator/main branch, use the following to update:
 
 ``` shell
 git checkout my-new-feature
